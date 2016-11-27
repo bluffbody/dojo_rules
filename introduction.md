@@ -1,3 +1,3 @@
-ikke ben den dikke
-python
-ruby
+* python
+* ruby
+* SQL
